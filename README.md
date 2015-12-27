@@ -1,2 +1,2 @@
 # o-moto-lp
-O Motô LP
+Landing Page for https://github.com/kaiquewdev/o-moto.git
